@@ -1,0 +1,41 @@
+.n ul li {
+    display: inline;
+    padding: 25px;
+}
+
+.n ul {
+    background-color: rgb(6, 10, 32);
+    padding: 25px;
+    margin: auto;    
+}
+.logo {
+    width: 180px;
+    height: 75px;
+    position: absolute;
+    right: 0;   
+    border: 1px black solid ;
+}
+.i {background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 98vw;
+    height: 78vh;
+}
+.li:hover {
+    background-color: rgb(238, 94, 11);
+}
+.li {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 20px;
+    margin: auto;
+    font-size: 22px;
+    
+    
+}
+
+
+
+
+
+
